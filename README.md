@@ -68,6 +68,7 @@ adb pull /data/local/tmp/fanbak <local_backup_path>
 
 ## 3. Apply Fan Fix (Root Required)
 Make sure rooted ADB/debugging is enabled on the device:
+
 Settings -> System Settings -> System -> Developer Options -> Rooted Debugging
 
 Then run:
